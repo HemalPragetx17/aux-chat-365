@@ -1,0 +1,5 @@
+amount,from,to,customer,description,reference,Transaction type
+$1.00 ,8444445155,4848419927,shawn,Chocolates,12345,Sale
+$2.50 ,8444445155,4848419927,shawn,Cookies,4567,Authored only
+$1.60 ,8444445155,4848419927,shawn,Chocolates,8910,Sale
+$2.30 ,8444445155,4848419927,shawn,Cake,91123,Authored only
